@@ -1,0 +1,25 @@
+.activePersonalizado{
+background-color: rgb(231, 189, 52);
+    border-radius: 1%;
+    color: rgb(255, 255, 255);
+};
+
+
+
+body{
+    background: rgb(231, 189, 52);
+}
+
+#jumbotroncss{
+background-color: rgb(231, 189, 52); ;
+color: rgb(255, 255, 255);
+}
+
+a{
+    font-family: Book Antiqua,Palatino,Palatino Linotype,Palatino LT STD,Georgia,serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
